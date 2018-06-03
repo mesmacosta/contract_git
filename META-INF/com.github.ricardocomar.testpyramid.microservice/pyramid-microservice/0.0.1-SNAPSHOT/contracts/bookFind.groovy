@@ -13,7 +13,7 @@ response {
   body("""
   {
     "id": 1000,
-    "name": "test",
+    "name": "tesz",
     "writter": "test writter",
     "price": 100.00
   }
